@@ -13,7 +13,7 @@ This is a simple Python script that takes a list of numbers from user input, det
 When prompted, enter numbers like:
 
 ```
-4, 7, 10, 13.17 18
+4, 7, 10, 18
 ```
 
 Any combination of commas, dots, or spaces will be parsed correctly.
@@ -38,19 +38,6 @@ Prime numbers: [3, 5]
 ## 🧠 Requirements
 
 - Python 3.x
-
-## 🚀 Running the Script
-
-```bash
-python ukol2.py
-```
-
-## 📁 File Structure
-
-```
-ukol2.py        # Main script
-README.md       # This file
-```
 
 ## 🤝 License
 
